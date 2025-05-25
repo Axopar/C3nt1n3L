@@ -7,4 +7,4 @@
 La página está disponible (una vez activada GitHub Pages) en:  
 👉 [https://axopar.github.io/C3nt1n3L/](https://axopar.github.io/C3nt1n3L/)
 
-## 🛠️ Estructura del proyecto
+## 🛠️
